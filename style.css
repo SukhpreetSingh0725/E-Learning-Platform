@@ -808,6 +808,14 @@ footer .btn:hover {
 		/* align-self: center; */
 	}
 }
+/SCROLLING TEXT/
+.marqu {
+	text-align: center;
+	justify-content: center;
+	color: #fff;
+	font-size: 20px;
+	padding: 10px;
+}
 
 @media screen and (max-width: 1000px) {	
 	.feedbox form input, .feedbox form .fname{
