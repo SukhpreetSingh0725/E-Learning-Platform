@@ -670,14 +670,7 @@ form textarea {
 	font-size: 12px;
 	cursor: pointer;
 }
-/*SCROLLING TEXT*/
-.marqu {
-	text-align: center;
-	justify-content: center;
-	color: #fff;
-	font-size: 20px;
-	padding: 10px;
-}
+
 
 /*FOOTER*/
 footer {
@@ -814,6 +807,14 @@ footer .btn:hover {
 		margin: 20px;
 		/* align-self: center; */
 	}
+}
+/SCROLLING TEXT/
+.marqu {
+	text-align: center;
+	justify-content: center;
+	color: #fff;
+	font-size: 20px;
+	padding: 10px;
 }
 
 @media screen and (max-width: 1000px) {	
